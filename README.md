@@ -14,7 +14,7 @@ python scaffold.py
 - [x] **2.** split_wage
 - [x] **3.** cv_tools
 - [x] **4.** polynomial_regression
-- [ ] **5.** step_functions
+- [x] **5.** step_functions
 - [ ] **6.** spline_regression
 - [ ] **7.** extrapolation
 - [ ] **8.** smoothing_spline
