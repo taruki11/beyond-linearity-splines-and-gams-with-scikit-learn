@@ -15,7 +15,7 @@ python scaffold.py
 - [x] **3.** cv_tools
 - [x] **4.** polynomial_regression
 - [x] **5.** step_functions
-- [ ] **6.** spline_regression
+- [x] **6.** spline_regression
 - [ ] **7.** extrapolation
 - [ ] **8.** smoothing_spline
 - [ ] **9.** local_smoother
