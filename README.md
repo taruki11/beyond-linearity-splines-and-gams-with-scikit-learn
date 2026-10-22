@@ -22,7 +22,7 @@ python scaffold.py
 - [x] **10.** gam_pipeline
 - [x] **11.** partial_effects
 - [x] **12.** logistic_gam
-- [ ] **13.** fit_age_models
+- [x] **13.** fit_age_models
 - [ ] **14.** test_comparison
 
 ---
