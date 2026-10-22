@@ -13,7 +13,7 @@ python scaffold.py
 - [x] **1.** load_wage
 - [x] **2.** split_wage
 - [x] **3.** cv_tools
-- [ ] **4.** polynomial_regression
+- [x] **4.** polynomial_regression
 - [ ] **5.** step_functions
 - [ ] **6.** spline_regression
 - [ ] **7.** extrapolation
